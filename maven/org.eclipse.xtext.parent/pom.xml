@@ -31,7 +31,7 @@
 	</modules>
 
 	<properties>
-		<mavenVersion>3.2.1</mavenVersion>
+		<mavenVersion>3.5.0</mavenVersion>
 		<tycho-version>0.22.0</tycho-version>
 		<emf.version>(2.8,3.0)</emf.version>
 		<mwe2-version>(2.7,3.0)</mwe2-version>
@@ -201,7 +201,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -220,7 +220,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -239,7 +239,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
